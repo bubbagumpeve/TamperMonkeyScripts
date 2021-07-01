@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Gala Treasure Chest Balance Converter
-// @namespace    http://tampermonkey.net/
+// @namespace    https://openuserjs.org/users/bubbagumpeve
 // @version      0.1
 // @description  Show your Gala Treasure Chest balance equivalent in native currency
 // @copyright    2021, BubbaGumpEve (https://github.com/bubbagumpeve)
