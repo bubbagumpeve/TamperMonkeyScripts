@@ -5,6 +5,7 @@
 // @description  Show your Gala Treasure Chest balance equivalent in native currency
 // @copyright    2021, BubbaGumpEve (https://openuserjs.org/users/BubbaGumpEve)
 // @author       bubbagumpeve@gmail.com
+// @license      MIT
 // @match        https://app.gala.games/treasure-chest/
 // @icon         https://www.google.com/s2/favicons?domain=gala.games
 // @grant        GM_addStyle
