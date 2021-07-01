@@ -1,12 +1,18 @@
 // ==UserScript==
-// @name         Treasure Chest Gala Balance Converter
+// @name         Gala Treasure Chest Balance Converter
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Show your Gala Treasure Chest balance equivalent in native currency
+// @copyright    2021, BubbaGumpEve (https://github.com/bubbagumpeve)
+// @license      Public Domain
 // @author       bubbagumpeve@gmail.com
 // @match        https://app.gala.games/treasure-chest/
 // @icon         https://www.google.com/s2/favicons?domain=gala.games
 // @grant        GM_addStyle
+// @run-at       document-start
+// @homepage     https://github.com/bubbagumpeve/TamperMonkeyScripts
+// @version      1.0.0
+// @updateURL https://openuserjs.org/meta/BubbaGumpEve/My_Script.meta.js
 // @run-at       document-start
 // ==/UserScript==
 
